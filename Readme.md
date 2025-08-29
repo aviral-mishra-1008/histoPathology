@@ -4,4 +4,4 @@ This is a WSI Image to ICD10 Code Classifier where-in we try to implement an on-
 
 Further scope of project is to achieve report-generation/diagnosis prediction
 
-![Uploading image.png…]()
+<img width="1520" height="397" alt="image" src="https://github.com/user-attachments/assets/c51dc61b-2df7-43f4-bd54-15fdbb630bc3" />
