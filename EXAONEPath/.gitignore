@@ -1,0 +1,9 @@
+__pycache__
+*.ckpt
+downstream_dataloader.py
+test*
+EXAONEPath
+flops_calculate.ipynb
+*backup.md
+*.safetensors
+requirements.txt
