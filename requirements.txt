@@ -1,0 +1,17 @@
+pandas
+openslide
+cv2
+python-dotenv
+"monai[pillow, tqdm, openslide]"
+torch==2.6.0 
+torchvision==0.21.0 
+torchaudio==2.6.0
+torchstain
+huggingface_hub
+numpy
+matplotlib
+opencv-python
+tqdm
+scikit-learn
+requests
+pillow
